@@ -22,13 +22,13 @@ This repository serves as a portfolio of the projects I've undertaken as part of
 ### Project 2: [DOM](JavaScript/DOM/)
 
 
-### Project 3: [Eventos Y Formularios](JavaScript/Eventos y formularios/)
+### Project 3: [Eventos Y Formularios](JavaScript/Eventos%20y%20formularios/)
 
 
 ### Project 4: [GuessARandomNum](JavaScript/GuessARandomNum/)
 
 
-### Project 5: [Shopping List](JavaScript/Shopping List/)
+### Project 5: [Shopping List](JavaScript/Shopping%20List/)
 
 
 ### Project 6: [callbackFunctions](JavaScript/callbackFunctions/)
