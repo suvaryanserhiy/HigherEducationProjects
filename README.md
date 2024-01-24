@@ -5,7 +5,7 @@ Welcome to my Grado Superior Projects Showcase repository! Here, you'll find a c
 ## Table of Contents
 
 - [About](#about)
-- [JavaScript Folder](#javascript-projects)
+- [JavaScript Folder](#javascript-folder)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -22,7 +22,7 @@ This repository serves as a portfolio of the projects I've undertaken as part of
 ### Project 2: [DOM](JavaScript/DOM/)
 
 
-### Project 3: [Eventos y formularios](JavaScript/Eventos y formularios/)
+### Project 3: [Eventos Y Formularios](JavaScript/Eventos y formularios/)
 
 
 ### Project 4: [GuessARandomNum](JavaScript/GuessARandomNum/)
