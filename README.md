@@ -23,6 +23,7 @@ This repository serves as a portfolio of the projects I've undertaken as part of
 
 
 ### Project 3: [Eventos Y Formularios](JavaScript/Eventos%20y%20formularios/)
+* This folder contains projects related to Events and Forms.
 
 
 ### Project 4: [GuessARandomNum](JavaScript/GuessARandomNum/)
