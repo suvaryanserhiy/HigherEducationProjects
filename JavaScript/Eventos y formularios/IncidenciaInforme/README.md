@@ -15,7 +15,7 @@ Table of Contents
     Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone suvaryanserhiy/HigherEducationProjects
 ```
 
     Open index.html in your web browser
