@@ -27,7 +27,7 @@ The project consists of two draggable boxes: box1 and box2. box1 is draggable an
 
 ```bash
 
-    git clone https://github.com/suvaryanserhiy/drag-and-drop.git
+    git clone https://github.com/suvaryanserhiy/drag&drop.git
 ```
     Open index.html in a web browser.
 
@@ -37,11 +37,11 @@ The project consists of two draggable boxes: box1 and box2. box1 is draggable an
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-    Fork the project.
-    Create your feature branch (git checkout -b feature/your-feature).
-    Commit your changes (git commit -am 'Add some feature').
-    Push to the branch (git push origin feature/your-feature).
-    Open a pull request.
+    Fork the project
+    Create your feature branch
+    Commit your changes
+    Push to the branch
+    Open a pull request
 
 
 
