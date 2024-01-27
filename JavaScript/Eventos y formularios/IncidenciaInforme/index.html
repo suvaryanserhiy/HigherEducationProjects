@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Incidencia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>INFORME DE INCIDENCIA</h1>
+</header>
+<div class="wrapper">
+    <figure>
+        <img src="img/distibucion.jpeg" alt="Oficina" id="imagen"/>
+    </figure>
+    <main>
+        <form id="myForm" action="#">
+            <table>
+                <tr>
+                    <td>
+                        <label for="tipo">Tipo de incidencia</label>
+                    </td>
+                    <td>
+                        <select name="tipo" id="tipo">
+                            <option value="distribucion" selected>Distribución</option>
+                            <option value="oficina">Oficina</option>
+                            <option value="produccion">Producción</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label id="labelSerie" for="serie">Número de serie</label>
+                    </td>
+                    <td>
+                        <input type="text" name="serie" id="serie">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" id="addDesc">
+                        <button type="button" id="mostrarDescripcion">Mostrar Descripción</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br>
+                        <button id="enviar">Enviar datos</button>
+                    </td>
+                </tr>
+            </table>
+            <div id="capaError"></div>
+        </form>
+    </main>
+</div>
+<script src="script/script.js"></script>
+</body>
+</html>

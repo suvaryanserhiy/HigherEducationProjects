@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: #cd853f;
+    color: white;
+}
+.wrapper{
+    display: flex;
+}
+#imagen{
+    width: 300px;
+}
+.error{
+    border: 1px solid red;
+}
+.messageError{
+    margin-top: 20px;
+    color: white;
+    background-color: red;
+}
